@@ -18,13 +18,13 @@ In this course, I successfully learned how to run a Node.js server locally and h
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/xcinek1337/nodejs-crash-course.git
    ```
 2. Install dependencies:
    ```bash
    npm install
    ```
-3. You can add your MongoDB URL, but for this example, I provide my test collection:
+3. You can add your MongoDB URL, but for this example, I provide my test collection(YOU CAN SKIP THIS STEP):
    ```bash
     const dbURII = your_mongodb_uri
    ```
